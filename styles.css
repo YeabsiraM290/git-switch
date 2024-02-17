@@ -1,0 +1,19 @@
+.active-account {
+  background-color: rgba(19, 163, 53, 0.809);
+}
+
+.top-account {
+  margin-top: 10px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+}
+
+.bottom-account {
+  margin-bottom: 10px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
+.non-active-account {
+  background-color: black;
+}
